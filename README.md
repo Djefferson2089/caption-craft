@@ -12,7 +12,7 @@
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React / Next.js / TailwindCSS
+- **Frontend:** HTML / Angular / SCSS
 - **Backend:** Node.js / Express OR Flask
 - **AI API:** OpenAI GPT / Cohere / Claude / Custom Model
 - **Database:** Firebase / PostgreSQL / MongoDB
